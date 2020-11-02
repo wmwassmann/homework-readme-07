@@ -1,4 +1,5 @@
- # Readme
+ # Readme - it ain't pretty. But it works.  I just need to work on my attention to detail.  I'll try to make a note of going back to fixing this. 
+ 
         # Table of Contents
         
         -[Description](#description)
