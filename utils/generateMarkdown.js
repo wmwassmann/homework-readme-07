@@ -1,4 +1,4 @@
-const { info } = require("console");
+const { info001 } = require("console");
 
 function generateMarkdown(data) {
 
